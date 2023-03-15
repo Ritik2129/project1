@@ -1,1 +1,1 @@
-# project1
+# Receipt Generator
